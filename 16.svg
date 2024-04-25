@@ -12,7 +12,8 @@
 <line x1="123.434" y1="282.637" x2="404.051" y2="120.623" stroke="black"/>
 <line x1="159.469" y1="325.85" x2="367.75" y2="77.63" stroke="black"/>
 <line x1="208.116" y1="354.136" x2="318.94" y2="49.6481" stroke="black"/>
-<circle cx="263.997" cy="200.265" r="15.6494" fill="#FFA397" stroke="black"/>
+<circle cx="263.997" cy="200.265" r="15.6494" fill="white" stroke="white"/>
+<circle cx="263.997" cy="200.265" r="15.6494" fill="#F59D91" stroke="black"/>
 <circle cx="263.99" cy="200.266" r="36.1037" stroke="black" stroke-width="2" stroke-dasharray="4 4"/>
 <circle cx="263.993" cy="200.262" r="57.4342" stroke="black" stroke-width="2" stroke-dasharray="4 4"/>
 <circle cx="263.994" cy="200.262" r="78.5841" stroke="black" stroke-width="2" stroke-dasharray="4 4"/>

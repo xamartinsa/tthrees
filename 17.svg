@@ -1,4 +1,5 @@
 <svg width="543" height="405" viewBox="0 0 543 405" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="262.997" cy="200.265" r="15.6494" fill="white" stroke="white"/>
 <circle cx="263.458" cy="200.264" r="143.071" stroke="black" stroke-width="4"/>
 <g style="mix-blend-mode:multiply">
 <path d="M254.22 213.891L122.775 225.469C114.69 213.572 119.353 163.139 137.39 130.025C156.658 94.6498 202.921 65.7833 216.252 63.5391L263.074 77.5442L299.006 105.977L315.133 140.777H367.332L299.006 206.131L367.332 260.028C367.332 260.028 356.826 281.949 340.596 294.403L276.014 237.048H263.074L254.22 213.891Z" fill="#FFA397"/>
@@ -15,7 +16,7 @@
 <line x1="122.895" y1="282.637" x2="403.512" y2="120.623" stroke="black"/>
 <line x1="158.929" y1="325.85" x2="367.211" y2="77.63" stroke="black"/>
 <line x1="207.577" y1="354.136" x2="318.401" y2="49.6481" stroke="black"/>
-<circle cx="263.458" cy="200.265" r="15.6494" fill="#FFA397" stroke="black"/>
+<circle cx="263.458" cy="200.265" r="15.6494" fill="#F59D91" stroke="black"/>
 <circle cx="263.451" cy="200.266" r="36.1037" stroke="black" stroke-width="2" stroke-dasharray="4 4"/>
 <circle cx="263.454" cy="200.262" r="57.4342" stroke="black" stroke-width="2" stroke-dasharray="4 4"/>
 <circle cx="263.455" cy="200.262" r="78.5841" stroke="black" stroke-width="2" stroke-dasharray="4 4"/>
